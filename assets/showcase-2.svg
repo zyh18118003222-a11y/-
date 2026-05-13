@@ -1,0 +1,23 @@
+﻿<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#22303A"/>
+  <rect x="120" y="104" width="1360" height="692" rx="30" fill="#F7F3EE"/>
+  <rect x="180" y="170" width="430" height="560" rx="24" fill="#E8D9C6"/>
+  <rect x="650" y="170" width="750" height="166" rx="24" fill="#243340"/>
+  <rect x="650" y="364" width="350" height="366" rx="24" fill="#314453"/>
+  <rect x="1030" y="364" width="370" height="366" rx="24" fill="#D9C3A7"/>
+  <text x="720" y="270" fill="#F7F3EE" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="58" font-weight="700">
+    公司风貌占位图 02
+  </text>
+  <text x="248" y="340" fill="#243340" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="32" font-weight="700">
+    可替换为
+  </text>
+  <text x="248" y="398" fill="#243340" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28">
+    仓储区域
+  </text>
+  <text x="248" y="448" fill="#243340" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28">
+    材料陈列
+  </text>
+  <text x="248" y="498" fill="#243340" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28">
+    项目配套场景
+  </text>
+</svg>

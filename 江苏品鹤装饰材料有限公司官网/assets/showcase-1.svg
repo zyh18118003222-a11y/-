@@ -1,0 +1,18 @@
+﻿<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#1D2B36"/>
+  <rect x="84" y="88" width="1432" height="724" rx="32" fill="#243340"/>
+  <rect x="160" y="164" width="1280" height="572" rx="24" fill="#314453"/>
+  <rect x="220" y="220" width="540" height="420" rx="20" fill="#D9C3A7" fill-opacity="0.12"/>
+  <rect x="820" y="220" width="500" height="198" rx="20" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="820" y="442" width="500" height="198" rx="20" fill="#FFFFFF" fill-opacity="0.06"/>
+  <rect x="220" y="670" width="1100" height="18" rx="9" fill="#C9A37E" fill-opacity="0.7"/>
+  <text x="220" y="338" fill="#F7F3EE" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="66" font-weight="700">
+    公司风貌占位图 01
+  </text>
+  <text x="220" y="420" fill="#D7DEE4" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="34">
+    建议替换为企业门面、办公环境、会议空间等真实照片
+  </text>
+  <text x="220" y="486" fill="#C9A37E" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28" font-weight="700">
+    江苏品鹤装饰材料有限公司
+  </text>
+</svg>
